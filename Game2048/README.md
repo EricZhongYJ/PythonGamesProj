@@ -45,7 +45,7 @@ You can press the "Undo" button (or a keyboard shortcut Ctrl + Z) to revert to t
 
 * There is no fixed win condition (e.g., reaching 2048); players may continue as long as possible.
 
-### 📁 Project Structure (可选)
+### 📁 Project Structure
 ```bash
 PythonGamesProj/Game2048/
 ├── Game2048.py         # Main game logic and UI
