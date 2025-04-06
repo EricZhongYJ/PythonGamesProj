@@ -7,11 +7,13 @@ A Python implementation of the classic 2048 puzzle game, built with Tkinter for 
 ### 🎮 Features
 * ✅ Graphical UI built with tkinter
 
-* ✅ Full 2048 game logic with dynamic merging and score tracking
+* ✅ Full 2048 game logic with merging and score tracking
 
-* ✅ Undo functionality (one-step revert)
+* ✅ Undo functionality (any steps revert)
 
-* ✅ Persistent save/load support using JSON file
+* ✅ Persistent save/load support using txt file
+
+* ✅ Autosave/autoload when closing/opening the game
 
 * ✅ Game ends only when no moves are possible (no fixed win condition)
 
