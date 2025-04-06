@@ -7,8 +7,6 @@ A Python implementation of the classic 2048 puzzle game, built with Tkinter for 
 ### 🎮 Features
 * ✅ Graphical UI built with tkinter
 
-* ✅ Smooth tile movement animations
-
 * ✅ Full 2048 game logic with dynamic merging and score tracking
 
 * ✅ Undo functionality (one-step revert)
