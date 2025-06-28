@@ -63,4 +63,8 @@ Add screenshots of your gameplay here for better presentation!
 
 ---
 
+## Snapshot
+
+![](./SnapshotGoldMiner.jpg)
+
 **Enjoy mining!**
