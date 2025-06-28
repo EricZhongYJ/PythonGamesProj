@@ -2,7 +2,7 @@
 
 A classic Gold Miner game implemented in Python with a graphical interface powered by Tkinter.
 
-## Screenshots
+## Screenshot
 
 ![](./ScreenshotsGoldMiner.jpg)
 
