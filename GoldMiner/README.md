@@ -52,10 +52,6 @@ A classic Gold Miner game implemented in Python with a graphical interface power
 - [Pillow](https://python-pillow.org/) (`pip install pillow`) for image handling.
 - No external dependencies beyond standard Python, Tkinter and Pillow.
 
-## Screenshots
-
-Add screenshots of your gameplay here for better presentation!
-
 ## Credits
 
 - Developed by [EricZhongYJ](https://github.com/EricZhongYJ)
@@ -63,8 +59,8 @@ Add screenshots of your gameplay here for better presentation!
 
 ---
 
-## Snapshot
+## Screenshots
 
-![](./SnapshotGoldMiner.jpg)
+![](./ScreenshotsGoldMiner.jpg)
 
 **Enjoy mining!**
