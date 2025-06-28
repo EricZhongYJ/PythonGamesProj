@@ -97,8 +97,8 @@ def show(i, j, Id):  # Paint chess
 
 
 def end(b):  # Ending the game
-    who = '蓝方' if b else '黄方'
-    if ask('游戏结束', who + '获胜'):
+    who = 'Blue' if b else 'Yellow'
+    if ask('Game over', who + ' Won'):
         init()
 
 
