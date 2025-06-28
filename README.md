@@ -18,4 +18,4 @@ A classic Gold Miner game implemented in Python with a graphical interface power
 A two-player chess game implemented in Python with a graphical interface powered by Tkinter.
 
 ### 📷 Screenshot
-![](./Chess/ScreenshotsChess.jpg)
+![](./Chess/ScreenshotChess.jpg)
