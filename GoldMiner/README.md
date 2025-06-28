@@ -2,6 +2,10 @@
 
 A classic Gold Miner game implemented in Python with a graphical interface powered by Tkinter.
 
+## Screenshots
+
+![](./ScreenshotsGoldMiner.jpg)
+
 ## Features
 
 - **Multiple Levels:** Each level has a unique layout and score target.
@@ -58,9 +62,5 @@ A classic Gold Miner game implemented in Python with a graphical interface power
 - Inspired by classic Gold Miner games.
 
 ---
-
-## Screenshots
-
-![](./ScreenshotsGoldMiner.jpg)
 
 **Enjoy mining!**
