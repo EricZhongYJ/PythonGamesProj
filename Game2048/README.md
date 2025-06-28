@@ -34,7 +34,7 @@ You’ll see a GUI window pop up. Use arrow keys to move the tiles.
 The game automatically saves the current state to a local file (autosave.txt) after each move. When you reopen the game, it will load the last saved state. You can also save and load manually.
 
 ### ↩️ Undo
-You can press the "Undo" button (or a keyboard shortcut Ctrl + Z) to revert to the previous move. The game only stores one level of undo history.
+You can press the "Undo" button (or a keyboard shortcut Ctrl + Z) to revert to the previous move. The game stores all levels of undo history.
 
 ### 🧠 Rules
 * Combine tiles with the same number by sliding them in one of four directions.
