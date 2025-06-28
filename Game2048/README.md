@@ -2,7 +2,7 @@
 A Python implementation of the classic 2048 puzzle game, built with Tkinter for graphical interface. This version includes essential features like saving/loading game state and undoing moves.
 
 ### 📷 Screenshot
-![](Snapshot.jpg)
+![](Screenshots2048.jpg)
 
 ### 🎮 Features
 * ✅ Graphical UI built with tkinter
